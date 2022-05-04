@@ -1,0 +1,15 @@
+{
+  "name": "suscribete-por-la-card-main",
+  "version": "1.0.0",
+  "description": "pokeapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
